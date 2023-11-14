@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "==1.24"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+opencv-python = "*"
+flask = "*"
+flask-socketio = "*"
+urllib3 = "*"
+matplotlib = "*"
+pillow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
