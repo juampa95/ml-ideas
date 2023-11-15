@@ -15,6 +15,13 @@ flask-socketio = "*"
 urllib3 = "*"
 matplotlib = "*"
 pillow = "*"
+netcdf4 = "*"
+xarray = "*"
+cartopy = "*"
+s3fs = "*"
+fsspec = "*"
+h5netcdf = "*"
+tqdm = "*"
 
 [dev-packages]
 
